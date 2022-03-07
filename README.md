@@ -20,12 +20,6 @@ A simple todo list app to track your todos by adding, updating and deleting. Thi
 
 * And delete when todo is completed
 
-![Screenshot of Todo List](public/react-todo-list-screenshot.png)
-
-## Links
-
-* [Github](https://github.com/mmeii/react-todo-list)
-* [Deployed](https://iammei.com/react-todo-list/)
 
 ## Features
 
