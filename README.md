@@ -30,6 +30,6 @@ A simple todo list app to track your todos by adding, updating and deleting. Thi
 
 ## License
 
-  Copyright (c) Mengmei Tu. All rights reserved.
+  Copyright (c) Paul Collas Tu. All rights reserved.
   
   Licensed under the [MIT](LICENSE) license.
